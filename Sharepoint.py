@@ -120,6 +120,6 @@ def parse_csv(file_path):
             print(row)
 
 # Example usage
-file_path = 'C:\Users\PranayTejaS\OneDrive - SREETECH INC\profile\Downloads\business-operations-survey-2023-CSV-notes.xlsx'
+file_path = 'C:\Users\PranayTejaS\OneDrive\profile\Downloads\business-operations-survey-2023-CSV-notes.xlsx'
 parse_csv(file_path)
 
